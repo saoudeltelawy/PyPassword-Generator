@@ -61,4 +61,4 @@ print(f"final chosen password is {''.join(password)}")
 
 
 # Hint 
-# 	The function random.shuffle() shuffles the list in place and returns None. When you assign its return value to shuffled_password, it becomes None.
+# The function random.shuffle() shuffles the list in place and returns None. When you assign its return value to shuffled_password, it becomes None.
