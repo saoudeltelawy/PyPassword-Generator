@@ -22,7 +22,7 @@
    git clone https://github.com/yourusername/PyPassword-Generator.git
 
 
-**Sample Output:**
+## Sample Output:
 
 Welcome to the PyPassword Generator!
 How many letters would you like in your password?
