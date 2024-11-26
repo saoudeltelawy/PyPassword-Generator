@@ -40,8 +40,8 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 password = []
 
 random_selected_letters = random.choices(letters, k=nr_letters)
-random_selected_symbols = random.choices(numbers, k=nr_symbols)
-random_selected_numbers = random.choices(symbols, k=nr_numbers)
+random_selected_symbols = random.choices(symbols, k=nr_symbols)
+random_selected_numbers = random.choices(numbers, k=nr_numbers)
 
 # print(random_selected_letters)
 # print(random_selected_symbols)
