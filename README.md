@@ -25,11 +25,12 @@
 ## Sample Output:
 
 Welcome to the PyPassword Generator!
-How many letters would you like in your password?
+
+-How many letters would you like in your password?
 10
-How many symbols would you like?
+-How many symbols would you like?
 4
-How many numbers would you like?
+-How many numbers would you like?
 3
 
-Generated Password: P@5c!j7%9AiBHz
+-Generated Password: P@5c!j7%9AiBHz
