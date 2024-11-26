@@ -51,7 +51,14 @@ random_selected_numbers = random.choices(numbers, k=nr_numbers)
 password.extend(random_selected_letters + random_selected_symbols + random_selected_numbers)
 # print(password)
 
+print(f"Old password before shuffling it {password}")
+
 # Shuffling the random password 
 random.shuffle(password)
 print(password)
 print(f"final chosen password is {''.join(password)}")
+
+
+
+# Hint 
+# 	The function random.shuffle() shuffles the list in place and returns None. When you assign its return value to shuffled_password, it becomes None.
